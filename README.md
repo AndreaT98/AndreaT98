@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋, I'm Andrea Tranquillo
+I'm a master student at Università degli Studi di Salerno (Italy)
 
-<!--
-**AndreaT98/AndreaT98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 **I’m currently working on**:
+- [krABMaga](https://github.com/krABMaga/krABMaga) implementation of a [distributed KdTree field](https://github.com/krABMaga/krABMaga/tree/kdt) used for simulations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I’m currently learning**:
+- [AWS](https://aws.amazon.com/) environment and all its services
+
+💬 **Ask me about**: 
+- Anything related to my works, I'd be happy to help
+
+📫 **How to reach me**: 
+- **Email:** andreatranquillo87@gmail.com
+
+
